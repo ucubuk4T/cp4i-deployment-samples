@@ -17,7 +17,7 @@ To get started, choose your demo below:
 # Common Documentation
 The following Documentation is common across multiple Demos
 
-[**Setting up Connectors**](../Connectors/README.md)
+[**Setting up Connectors**](Connectors/README.md)
 This covers both setting up the connectors in CP4I and creating free developer/lite accounts in the services used for the demos.
 
 WIP
